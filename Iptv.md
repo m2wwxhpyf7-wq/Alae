@@ -1,0 +1,27 @@
+# Iptv  
+  
+#EXTM3U  
+  
+#EXTINF:-1,IPTV 1  
+http://ott4k.me:80/get.php?username=50527491554013&password=27761792131241&type=m3u&output=ts  
+  
+#EXTINF:-1,IPTV 2  
+http://ott4k.me:80/get.php?username=50981798214941&password=36494672165879&type=m3u&output=ts  
+  
+#EXTINF:-1,IPTV 3  
+http://ott4k.me:80/get.php?username=50886689584230&password=88800066276301&type=m3u&output=ts  
+  
+#EXTINF:-1,IPTV 4  
+http://ott4k.me:80/get.php?username=50134844254964&password=16917835695054&type=m3u&output=ts  
+  
+#EXTINF:-1,IPTV 5  
+http://ott4k.me:80/get.php?username=50309633690806&password=93792152132261&type=m3u&output=ts  
+  
+#EXTINF:-1,IPTV 6  
+http://ott4k.me:80/get.php?username=50662909400790&password=42590092279057&type=m3u&output=ts  
+  
+#EXTINF:-1,IPTV 7  
+http://ott4k.me:80/get.php?username=50409299010440&password=73621329868893&type=m3u&output=ts  
+  
+#EXTINF:-1,IPTV 8  
+http://ott4k.me:80/get.php?username=50535015443090&password=36862126113938&type=m3u&output=ts  
